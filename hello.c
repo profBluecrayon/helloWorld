@@ -5,7 +5,7 @@ int main()
    printf("Hello World\n");
    printf("%d", getDay() + '\n');
 
-   return 0;
+   return 1;
 }
 
 int getDay() {
